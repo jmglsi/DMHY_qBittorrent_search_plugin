@@ -33,7 +33,7 @@ from re import compile as re_compile
 
 class dmhyorg(object):
     url = "https://dmhy.anoneko.com"
-    name = "DMHY"
+    name = "DMHY_2"
     supported_categories = {"all":0,"anime":2,"pictures":3,"music":4,"tv":6,"games":9}
 
     def download_torrent(self, info):
