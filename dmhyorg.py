@@ -32,7 +32,7 @@ from novaprinter import prettyPrinter
 from re import compile as re_compile
 
 class dmhyorg(object):
-    url = "https://share.dmhy.org"
+    url = "https://dmhy.anoneko.com"
     name = "DMHY"
     supported_categories = {"all":0,"anime":2,"pictures":3,"music":4,"tv":6,"games":9}
 
